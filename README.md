@@ -32,7 +32,7 @@
 
 ##	问题反馈
 
-您可以点击[问题反馈](https://github.com/nnthink/aixcoder.client.tensorflow/issues)
+您可以点击[问题反馈](https://github.com/nnthink/aixcoder.web.tensorflow/issues)
 
 进入讨论板块，将您的使用感受、建议、产品不足告诉我们，携手一起打磨属于开发者们的开发工具。
 
